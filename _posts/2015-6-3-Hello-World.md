@@ -2,6 +2,7 @@
 layout: post
 title: zzh's hello world style blog
 ---
+test
 now I have udpated my site name
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
