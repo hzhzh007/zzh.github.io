@@ -1,5 +1,6 @@
 ---
 layout: post
+o
 title: zzh's hello world style blog
 ---
 test
